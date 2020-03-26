@@ -17,6 +17,7 @@
   	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+</head>    
     <style type="text/css">
     @media (min-width: 768px){ 
       #navbar-search-input{ 
@@ -72,5 +73,5 @@
 
     </style>
 
-</head>
+
 </html>
